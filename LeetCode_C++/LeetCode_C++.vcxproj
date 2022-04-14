@@ -140,6 +140,37 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="LeetCode_C++.cpp" />
+    <ClCompile Include="Q100_SameTree.cpp" />
+    <ClCompile Include="Q101_SymmetricTree.cpp" />
+    <ClCompile Include="Q102_BinaryTreeLevelOrderTraversal.cpp" />
+    <ClCompile Include="Q103_BinaryTreeZigzagLevelOrderTraversal.cpp" />
+    <ClCompile Include="Q107_BinaryTreeLevelOrderTraversalTwo.cpp" />
+    <ClCompile Include="Q116_PopulatingNextRightPointersInEachNode.cpp" />
+    <ClCompile Include="Q117_PopulatingNextRightPointersInEachNodeTwo.cpp" />
+    <ClCompile Include="Q1_TwoSum.cpp" />
+    <ClCompile Include="Q24_SwapNodesInPairs.cpp" />
+    <ClCompile Include="Q2_AddTwoNumbers.cpp" />
+    <ClCompile Include="Q45_JumpGameTwo.cpp" />
+    <ClCompile Include="Q51_NQueens.cpp" />
+    <ClCompile Include="Q52_NQueensTwo.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ListNode.h" />
+    <ClInclude Include="Node.h" />
+    <ClInclude Include="Q100_SameTree.h" />
+    <ClInclude Include="Q101_SymmetricTree.h" />
+    <ClInclude Include="Q102_BinaryTreeLevelOrderTraversal.h" />
+    <ClInclude Include="Q103_BinaryTreeZigzagLevelOrderTraversal.h" />
+    <ClInclude Include="Q107_BinaryTreeLevelOrderTraversalTwo.h" />
+    <ClInclude Include="Q116_PopulatingNextRightPointersInEachNode.h" />
+    <ClInclude Include="Q117_PopulatingNextRightPointersInEachNodeTwo.h" />
+    <ClInclude Include="Q1_TwoSum.h" />
+    <ClInclude Include="Q24_SwapNodesInPairs.h" />
+    <ClInclude Include="Q2_AddTwoNumbers.h" />
+    <ClInclude Include="Q45_JumpGameTwo.h" />
+    <ClInclude Include="Q51_NQueens.h" />
+    <ClInclude Include="Q52_NQueensTwo.h" />
+    <ClInclude Include="TreeNode.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
