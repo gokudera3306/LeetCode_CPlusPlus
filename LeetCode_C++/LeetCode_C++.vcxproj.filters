@@ -57,6 +57,9 @@
     <ClCompile Include="Q117_PopulatingNextRightPointersInEachNodeTwo.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Q53_MaximumSubarray.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Q1_TwoSum.h">
@@ -105,6 +108,9 @@
       <Filter>標頭檔</Filter>
     </ClInclude>
     <ClInclude Include="Q117_PopulatingNextRightPointersInEachNodeTwo.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Q53_MaximumSubarray.h">
       <Filter>標頭檔</Filter>
     </ClInclude>
   </ItemGroup>
