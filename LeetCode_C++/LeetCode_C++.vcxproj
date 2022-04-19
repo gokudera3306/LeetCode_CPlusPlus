@@ -147,6 +147,7 @@
     <ClCompile Include="Q107_BinaryTreeLevelOrderTraversalTwo.cpp" />
     <ClCompile Include="Q116_PopulatingNextRightPointersInEachNode.cpp" />
     <ClCompile Include="Q117_PopulatingNextRightPointersInEachNodeTwo.cpp" />
+    <ClCompile Include="Q13_RomanToInteger.cpp" />
     <ClCompile Include="Q1_TwoSum.cpp" />
     <ClCompile Include="Q24_SwapNodesInPairs.cpp" />
     <ClCompile Include="Q2_AddTwoNumbers.cpp" />
@@ -165,6 +166,7 @@
     <ClInclude Include="Q107_BinaryTreeLevelOrderTraversalTwo.h" />
     <ClInclude Include="Q116_PopulatingNextRightPointersInEachNode.h" />
     <ClInclude Include="Q117_PopulatingNextRightPointersInEachNodeTwo.h" />
+    <ClInclude Include="Q13_RomanToInteger.h" />
     <ClInclude Include="Q1_TwoSum.h" />
     <ClInclude Include="Q24_SwapNodesInPairs.h" />
     <ClInclude Include="Q2_AddTwoNumbers.h" />
