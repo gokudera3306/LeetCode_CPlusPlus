@@ -63,6 +63,9 @@
     <ClCompile Include="Q13_RomanToInteger.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Q14_LongestCommonPrefix.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Q1_TwoSum.h">
@@ -117,6 +120,9 @@
       <Filter>標頭檔</Filter>
     </ClInclude>
     <ClInclude Include="Q13_RomanToInteger.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Q14_LongestCommonPrefix.h">
       <Filter>標頭檔</Filter>
     </ClInclude>
   </ItemGroup>
