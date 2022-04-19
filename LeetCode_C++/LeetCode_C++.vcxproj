@@ -151,6 +151,7 @@
     <ClCompile Include="Q14_LongestCommonPrefix.cpp" />
     <ClCompile Include="Q1_TwoSum.cpp" />
     <ClCompile Include="Q24_SwapNodesInPairs.cpp" />
+    <ClCompile Include="Q26_RemoveDuplicatesFromSortedArray.cpp" />
     <ClCompile Include="Q2_AddTwoNumbers.cpp" />
     <ClCompile Include="Q45_JumpGameTwo.cpp" />
     <ClCompile Include="Q51_NQueens.cpp" />
@@ -171,6 +172,7 @@
     <ClInclude Include="Q14_LongestCommonPrefix.h" />
     <ClInclude Include="Q1_TwoSum.h" />
     <ClInclude Include="Q24_SwapNodesInPairs.h" />
+    <ClInclude Include="Q26_RemoveDuplicatesFromSortedArray.h" />
     <ClInclude Include="Q2_AddTwoNumbers.h" />
     <ClInclude Include="Q45_JumpGameTwo.h" />
     <ClInclude Include="Q51_NQueens.h" />
