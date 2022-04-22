@@ -72,6 +72,9 @@
     <ClCompile Include="Q28_ImplementStrStr.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Q70_ClimbingStairs.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Q1_TwoSum.h">
@@ -135,6 +138,9 @@
       <Filter>標頭檔</Filter>
     </ClInclude>
     <ClInclude Include="Q28_ImplementStrStr.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Q70_ClimbingStairs.h">
       <Filter>標頭檔</Filter>
     </ClInclude>
   </ItemGroup>

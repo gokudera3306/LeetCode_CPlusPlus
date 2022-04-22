@@ -158,6 +158,7 @@
     <ClCompile Include="Q51_NQueens.cpp" />
     <ClCompile Include="Q52_NQueensTwo.cpp" />
     <ClCompile Include="Q53_MaximumSubarray.cpp" />
+    <ClCompile Include="Q70_ClimbingStairs.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h" />
@@ -180,6 +181,7 @@
     <ClInclude Include="Q51_NQueens.h" />
     <ClInclude Include="Q52_NQueensTwo.h" />
     <ClInclude Include="Q53_MaximumSubarray.h" />
+    <ClInclude Include="Q70_ClimbingStairs.h" />
     <ClInclude Include="TreeNode.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
