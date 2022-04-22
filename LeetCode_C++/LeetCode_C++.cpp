@@ -3,9 +3,20 @@
 
 #include <iostream>
 
+#include "Q88_MergeSortedArray.h"
+
 int main()
 {
     std::cout << "Hello World!\n";
+
+    Q88_MergeSortedArray question;
+
+    vector<int> nums1 = { 1,2,3,0,0,0 };
+    auto m = 3;
+    vector<int> nums2 = { 2,5,6};
+    auto n = 3;
+
+    question.merge(nums1, m, nums2, n);
 }
 
 // 執行程式: Ctrl + F5 或 [偵錯] > [啟動但不偵錯] 功能表
