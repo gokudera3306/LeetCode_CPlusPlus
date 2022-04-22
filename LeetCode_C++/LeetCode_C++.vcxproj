@@ -154,6 +154,7 @@
     <ClCompile Include="Q26_RemoveDuplicatesFromSortedArray.cpp" />
     <ClCompile Include="Q28_ImplementStrStr.cpp" />
     <ClCompile Include="Q2_AddTwoNumbers.cpp" />
+    <ClCompile Include="Q3_LongestSubstringWithoutRepeatingCharacters.cpp" />
     <ClCompile Include="Q45_JumpGameTwo.cpp" />
     <ClCompile Include="Q51_NQueens.cpp" />
     <ClCompile Include="Q52_NQueensTwo.cpp" />
@@ -178,6 +179,7 @@
     <ClInclude Include="Q26_RemoveDuplicatesFromSortedArray.h" />
     <ClInclude Include="Q28_ImplementStrStr.h" />
     <ClInclude Include="Q2_AddTwoNumbers.h" />
+    <ClInclude Include="Q3_LongestSubstringWithoutRepeatingCharacters.h" />
     <ClInclude Include="Q45_JumpGameTwo.h" />
     <ClInclude Include="Q51_NQueens.h" />
     <ClInclude Include="Q52_NQueensTwo.h" />
