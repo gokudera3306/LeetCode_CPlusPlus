@@ -90,6 +90,9 @@
     <ClCompile Include="Q66_PlusOne.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Q69_SqrtX.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Q1_TwoSum.h">
@@ -171,6 +174,9 @@
       <Filter>標頭檔</Filter>
     </ClInclude>
     <ClInclude Include="Q66_PlusOne.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Q69_SqrtX.h">
       <Filter>標頭檔</Filter>
     </ClInclude>
   </ItemGroup>
