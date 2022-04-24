@@ -165,6 +165,7 @@
     <ClCompile Include="Q70_ClimbingStairs.cpp" />
     <ClCompile Include="Q7_ReverseInteger.cpp" />
     <ClCompile Include="Q88_MergeSortedArray.cpp" />
+    <ClCompile Include="Q94_BinaryTreeInorderTraversal.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h" />
@@ -194,6 +195,7 @@
     <ClInclude Include="Q70_ClimbingStairs.h" />
     <ClInclude Include="Q7_ReverseInteger.h" />
     <ClInclude Include="Q88_MergeSortedArray.h" />
+    <ClInclude Include="Q94_BinaryTreeInorderTraversal.h" />
     <ClInclude Include="TreeNode.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
