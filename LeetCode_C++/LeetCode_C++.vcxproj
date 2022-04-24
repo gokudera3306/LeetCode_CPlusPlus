@@ -147,6 +147,7 @@
     <ClCompile Include="Q107_BinaryTreeLevelOrderTraversalTwo.cpp" />
     <ClCompile Include="Q116_PopulatingNextRightPointersInEachNode.cpp" />
     <ClCompile Include="Q117_PopulatingNextRightPointersInEachNodeTwo.cpp" />
+    <ClCompile Include="Q11_ContainerWithMostWater.cpp" />
     <ClCompile Include="Q13_RomanToInteger.cpp" />
     <ClCompile Include="Q14_LongestCommonPrefix.cpp" />
     <ClCompile Include="Q1_TwoSum.cpp" />
@@ -173,6 +174,7 @@
     <ClInclude Include="Q107_BinaryTreeLevelOrderTraversalTwo.h" />
     <ClInclude Include="Q116_PopulatingNextRightPointersInEachNode.h" />
     <ClInclude Include="Q117_PopulatingNextRightPointersInEachNodeTwo.h" />
+    <ClInclude Include="Q11_ContainerWithMostWater.h" />
     <ClInclude Include="Q13_RomanToInteger.h" />
     <ClInclude Include="Q14_LongestCommonPrefix.h" />
     <ClInclude Include="Q1_TwoSum.h" />
