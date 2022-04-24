@@ -160,6 +160,7 @@
     <ClCompile Include="Q52_NQueensTwo.cpp" />
     <ClCompile Include="Q53_MaximumSubarray.cpp" />
     <ClCompile Include="Q70_ClimbingStairs.cpp" />
+    <ClCompile Include="Q7_ReverseInteger.cpp" />
     <ClCompile Include="Q88_MergeSortedArray.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -185,6 +186,7 @@
     <ClInclude Include="Q52_NQueensTwo.h" />
     <ClInclude Include="Q53_MaximumSubarray.h" />
     <ClInclude Include="Q70_ClimbingStairs.h" />
+    <ClInclude Include="Q7_ReverseInteger.h" />
     <ClInclude Include="Q88_MergeSortedArray.h" />
     <ClInclude Include="TreeNode.h" />
   </ItemGroup>

@@ -81,6 +81,9 @@
     <ClCompile Include="Q3_LongestSubstringWithoutRepeatingCharacters.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Q7_ReverseInteger.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Q1_TwoSum.h">
@@ -153,6 +156,9 @@
       <Filter>標頭檔</Filter>
     </ClInclude>
     <ClInclude Include="Q3_LongestSubstringWithoutRepeatingCharacters.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Q7_ReverseInteger.h">
       <Filter>標頭檔</Filter>
     </ClInclude>
   </ItemGroup>
