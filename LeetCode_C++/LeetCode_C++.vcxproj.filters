@@ -96,6 +96,9 @@
     <ClCompile Include="Q94_BinaryTreeInorderTraversal.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Q108_ConvertSortedArrayToBinarySearchTree.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Q1_TwoSum.h">
@@ -183,6 +186,9 @@
       <Filter>標頭檔</Filter>
     </ClInclude>
     <ClInclude Include="Q94_BinaryTreeInorderTraversal.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Q108_ConvertSortedArrayToBinarySearchTree.h">
       <Filter>標頭檔</Filter>
     </ClInclude>
   </ItemGroup>

@@ -145,6 +145,7 @@
     <ClCompile Include="Q102_BinaryTreeLevelOrderTraversal.cpp" />
     <ClCompile Include="Q103_BinaryTreeZigzagLevelOrderTraversal.cpp" />
     <ClCompile Include="Q107_BinaryTreeLevelOrderTraversalTwo.cpp" />
+    <ClCompile Include="Q108_ConvertSortedArrayToBinarySearchTree.cpp" />
     <ClCompile Include="Q116_PopulatingNextRightPointersInEachNode.cpp" />
     <ClCompile Include="Q117_PopulatingNextRightPointersInEachNodeTwo.cpp" />
     <ClCompile Include="Q11_ContainerWithMostWater.cpp" />
@@ -175,6 +176,7 @@
     <ClInclude Include="Q102_BinaryTreeLevelOrderTraversal.h" />
     <ClInclude Include="Q103_BinaryTreeZigzagLevelOrderTraversal.h" />
     <ClInclude Include="Q107_BinaryTreeLevelOrderTraversalTwo.h" />
+    <ClInclude Include="Q108_ConvertSortedArrayToBinarySearchTree.h" />
     <ClInclude Include="Q116_PopulatingNextRightPointersInEachNode.h" />
     <ClInclude Include="Q117_PopulatingNextRightPointersInEachNodeTwo.h" />
     <ClInclude Include="Q11_ContainerWithMostWater.h" />
