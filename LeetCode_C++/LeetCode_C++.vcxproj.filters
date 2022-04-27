@@ -102,6 +102,9 @@
     <ClCompile Include="Q121_BestTimeToBuyAndSellStock.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Q136_SingleNumber.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Q1_TwoSum.h">
@@ -195,6 +198,9 @@
       <Filter>標頭檔</Filter>
     </ClInclude>
     <ClInclude Include="Q121_BestTimeToBuyAndSellStock.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Q136_SingleNumber.h">
       <Filter>標頭檔</Filter>
     </ClInclude>
   </ItemGroup>
