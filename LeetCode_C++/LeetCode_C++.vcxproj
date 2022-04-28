@@ -159,6 +159,7 @@
     <ClCompile Include="Q160_IntersectionOfTwoLinkedLists.cpp" />
     <ClCompile Include="Q169_MajorityElement.cpp" />
     <ClCompile Include="Q1_TwoSum.cpp" />
+    <ClCompile Include="Q206_ReverseLinkedList.cpp" />
     <ClCompile Include="Q24_SwapNodesInPairs.cpp" />
     <ClCompile Include="Q26_RemoveDuplicatesFromSortedArray.cpp" />
     <ClCompile Include="Q28_ImplementStrStr.cpp" />
@@ -198,6 +199,7 @@
     <ClInclude Include="Q160_IntersectionOfTwoLinkedLists.h" />
     <ClInclude Include="Q169_MajorityElement.h" />
     <ClInclude Include="Q1_TwoSum.h" />
+    <ClInclude Include="Q206_ReverseLinkedList.h" />
     <ClInclude Include="Q24_SwapNodesInPairs.h" />
     <ClInclude Include="Q26_RemoveDuplicatesFromSortedArray.h" />
     <ClInclude Include="Q28_ImplementStrStr.h" />
