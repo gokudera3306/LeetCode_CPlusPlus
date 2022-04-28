@@ -99,6 +99,9 @@
     <ClCompile Include="Q108_ConvertSortedArrayToBinarySearchTree.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Q118_PascalsTriangle.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
     <ClCompile Include="Q121_BestTimeToBuyAndSellStock.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
@@ -213,6 +216,9 @@
       <Filter>標頭檔</Filter>
     </ClInclude>
     <ClInclude Include="Q151_MinStack.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Q118_PascalsTriangle.h">
       <Filter>標頭檔</Filter>
     </ClInclude>
   </ItemGroup>
