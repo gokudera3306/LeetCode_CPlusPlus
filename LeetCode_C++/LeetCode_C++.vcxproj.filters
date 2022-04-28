@@ -117,6 +117,9 @@
     <ClCompile Include="Q160_IntersectionOfTwoLinkedLists.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Q169_MajorityElement.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Q1_TwoSum.h">
@@ -225,6 +228,9 @@
       <Filter>標頭檔</Filter>
     </ClInclude>
     <ClInclude Include="Q160_IntersectionOfTwoLinkedLists.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Q169_MajorityElement.h">
       <Filter>標頭檔</Filter>
     </ClInclude>
   </ItemGroup>
