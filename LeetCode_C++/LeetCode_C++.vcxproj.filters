@@ -129,6 +129,9 @@
     <ClCompile Include="Q171_ExcelSheetColumnNumber.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Q387_FirstUniqueCharacterInAString.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Q1_TwoSum.h">
@@ -249,6 +252,9 @@
       <Filter>標頭檔</Filter>
     </ClInclude>
     <ClInclude Include="Q171_ExcelSheetColumnNumber.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Q387_FirstUniqueCharacterInAString.h">
       <Filter>標頭檔</Filter>
     </ClInclude>
   </ItemGroup>
