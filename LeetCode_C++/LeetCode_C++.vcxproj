@@ -167,6 +167,7 @@
     <ClCompile Include="Q24_SwapNodesInPairs.cpp" />
     <ClCompile Include="Q268_MissingNumber.cpp" />
     <ClCompile Include="Q26_RemoveDuplicatesFromSortedArray.cpp" />
+    <ClCompile Include="Q283_MoveZeroes.cpp" />
     <ClCompile Include="Q28_ImplementStrStr.cpp" />
     <ClCompile Include="Q2_AddTwoNumbers.cpp" />
     <ClCompile Include="Q387_FirstUniqueCharacterInAString.cpp" />
@@ -214,6 +215,7 @@
     <ClInclude Include="Q24_SwapNodesInPairs.h" />
     <ClInclude Include="Q268_MissingNumber.h" />
     <ClInclude Include="Q26_RemoveDuplicatesFromSortedArray.h" />
+    <ClInclude Include="Q283_MoveZeroes.h" />
     <ClInclude Include="Q28_ImplementStrStr.h" />
     <ClInclude Include="Q2_AddTwoNumbers.h" />
     <ClInclude Include="Q387_FirstUniqueCharacterInAString.h" />
