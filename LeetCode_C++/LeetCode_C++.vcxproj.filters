@@ -144,6 +144,9 @@
     <ClCompile Include="Q234_PalindromeLinkedList.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Q543_DiameterOfBinaryTree.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Q1_TwoSum.h">
@@ -279,6 +282,9 @@
       <Filter>標頭檔</Filter>
     </ClInclude>
     <ClInclude Include="Q234_PalindromeLinkedList.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Q543_DiameterOfBinaryTree.h">
       <Filter>標頭檔</Filter>
     </ClInclude>
   </ItemGroup>
