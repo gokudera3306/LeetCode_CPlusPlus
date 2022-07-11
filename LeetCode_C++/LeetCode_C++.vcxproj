@@ -162,6 +162,7 @@
     <ClCompile Include="Q1_TwoSum.cpp" />
     <ClCompile Include="Q206_ReverseLinkedList.cpp" />
     <ClCompile Include="Q217_ContainsDuplicate.cpp" />
+    <ClCompile Include="Q234_PalindromeLinkedList.cpp" />
     <ClCompile Include="Q237_DeleteNodeInALinkedList.cpp" />
     <ClCompile Include="Q24_SwapNodesInPairs.cpp" />
     <ClCompile Include="Q268_MissingNumber.cpp" />
@@ -207,6 +208,7 @@
     <ClInclude Include="Q1_TwoSum.h" />
     <ClInclude Include="Q206_ReverseLinkedList.h" />
     <ClInclude Include="Q217_ContainsDuplicate.h" />
+    <ClInclude Include="Q234_PalindromeLinkedList.h" />
     <ClInclude Include="Q237_DeleteNodeInALinkedList.h" />
     <ClInclude Include="Q24_SwapNodesInPairs.h" />
     <ClInclude Include="Q268_MissingNumber.h" />
